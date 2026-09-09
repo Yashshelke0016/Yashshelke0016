@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hi, I'm Tejaswini Wakure 👋</h1>
+  <h1>Hi, I'm Yash Shelke 👋</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%2B+Node.js+%2B+MongoDB;Building+Real-World+Web+Applications;Exploring+AI-Powered+Applications" alt="Typing SVG" />
 </div>
 
@@ -16,10 +16,10 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Girl Coding Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation"/>
 </div>
 
-### 👩‍💻 About Me
+### 👨‍💻 About Me
 
 - 🎓 **Final-year student** focusing on Full-Stack Web Development.
 - 💻 **Building** complete web applications, from responsive frontends to robust backends.
@@ -106,28 +106,30 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <a href="https://github.com/TejaswiniWakure">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TejaswiniWakure&theme=default" />
-  </a>
-  <a href="https://github.com/TejaswiniWakure">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TejaswiniWakure&theme=default" />
-  </a>
-</div>
-
-<br>
+<!-- ⚠️ IMPORTANT: Replace Yashshelke0016 below with Yash's actual GitHub username -->
 
 <div align="center">
-  <a href="https://github.com/TejaswiniWakure">
-    <img src="https://streak-stats.demolab.com/?user=TejaswiniWakure&theme=default&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5&sideNums=4F46E5&sideLabels=333333" alt="GitHub Streak" />
+  <a href="https://github.com/Yashshelke0016">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashshelke0016&theme=default" />
+  </a>
+  <a href="https://github.com/Yashshelke0016">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashshelke0016&theme=default" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/TejaswiniWakure">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejaswiniWakure&theme=default" width="95%" alt="Contribution Graph" />
+  <a href="https://github.com/Yashshelke0016">
+    <img src="https://streak-stats.demolab.com/?user=Yashshelke0016&theme=default&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5&sideNums=4F46E5&sideLabels=333333" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Yashshelke0016">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashshelke0016&theme=default" width="95%" alt="Contribution Graph" />
   </a>
 </div>
 
@@ -154,9 +156,9 @@
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/TejaswiniWakure"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/tejaswini-wakure"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- Update the email below with your actual email address -->
+  <!-- ⚠️ IMPORTANT: Update the GitHub and LinkedIn URLs below -->
+  <a href="https://github.com/Yashshelke0016"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/yash-shelke"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
